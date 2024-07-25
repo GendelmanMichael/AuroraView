@@ -1,0 +1,7 @@
+C:\Users\Michael\source\repos\AuroraView_2\bin\Debug\AuroraView_2.exe.config
+C:\Users\Michael\source\repos\AuroraView_2\bin\Debug\AuroraView_2.exe
+C:\Users\Michael\source\repos\AuroraView_2\bin\Debug\AuroraView_2.pdb
+C:\Users\Michael\source\repos\AuroraView_2\obj\Debug\AuroraView_Task_2.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\AuroraView_2\obj\Debug\AuroraView_Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\AuroraView_2\obj\Debug\AuroraView_2.exe
+C:\Users\Michael\source\repos\AuroraView_2\obj\Debug\AuroraView_2.pdb
